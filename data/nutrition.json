@@ -1,0 +1,88 @@
+{
+  "grains": [
+    {
+      "name": "rice_white_cooked",
+      "calories": 130,
+      "serving_size_g": 100,
+      "fat_total_g": 0.3,
+      "fat_saturated_g": 0.1,
+      "protein_g": 2.6,
+      "sodium_mg": 1,
+      "potassium_mg": 35,
+      "cholesterol_mg": 0,
+      "carbohydrates_total_g": 28.0,
+      "fiber_g": 0.4,
+      "sugar_g": 0.1
+    },
+    {
+      "name": "wheat_whole_raw",
+      "calories": 339,
+      "serving_size_g": 100,
+      "fat_total_g": 2.5,
+      "fat_saturated_g": 0.4,
+      "protein_g": 13.2,
+      "sodium_mg": 2,
+      "potassium_mg": 431,
+      "cholesterol_mg": 0,
+      "carbohydrates_total_g": 72.0,
+      "fiber_g": 12.2,
+      "sugar_g": 0.4
+    },
+    {
+      "name": "oats_raw",
+      "calories": 389,
+      "serving_size_g": 100,
+      "fat_total_g": 6.9,
+      "fat_saturated_g": 1.2,
+      "protein_g": 16.9,
+      "sodium_mg": 2,
+      "potassium_mg": 429,
+      "cholesterol_mg": 0,
+      "carbohydrates_total_g": 66.0,
+      "fiber_g": 10.6,
+      "sugar_g": 0.9
+    },
+    {
+      "name": "maize_raw",
+      "calories": 365,
+      "serving_size_g": 100,
+      "fat_total_g": 4.7,
+      "fat_saturated_g": 0.7,
+      "protein_g": 9.4,
+      "sodium_mg": 35,
+      "potassium_mg": 287,
+      "cholesterol_mg": 0,
+      "carbohydrates_total_g": 74.0,
+      "fiber_g": 7.3,
+      "sugar_g": 1.0
+    },
+    {
+      "name": "quinoa_raw",
+      "calories": 368,
+      "serving_size_g": 100,
+      "fat_total_g": 6.1,
+      "fat_saturated_g": 0.7,
+      "protein_g": 14.1,
+      "sodium_mg": 5,
+      "potassium_mg": 563,
+      "cholesterol_mg": 0,
+      "carbohydrates_total_g": 64.0,
+      "fiber_g": 7.0,
+      "sugar_g": 4.6
+    },
+    {
+      "name": "barley_raw",
+      "calories": 354,
+      "serving_size_g": 100,
+      "fat_total_g": 2.3,
+      "fat_saturated_g": 0.5,
+      "protein_g": 12.0,
+      "sodium_mg": 12,
+      "potassium_mg": 452,
+      "cholesterol_mg": 0,
+      "carbohydrates_total_g": 73.5,
+      "fiber_g": 17.3,
+      "sugar_g": 0.8
+    }
+  ]
+}
